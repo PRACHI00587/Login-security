@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("./pexels-jplenio-1103970.jpg");
+}
+.container {
+    text-align: center;
+    background: rgb(221, 225, 224);
+    padding: 25px 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
+}
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 15px 10px;
+    width: 80%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+button {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background: #45a049;
+}
+#result {
+    margin-top: 15px;
+    font-size: 15px;
+    color: rgb(201, 12, 12);
+}
+h1{
+    color: rgb(69, 92, 89);
+}
