@@ -47,6 +47,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 # Acknowledgements
 
-This README provides the necessary sections for a clear and complete description of your project. Feel free to replace the placeholders like `username/login-security.git` 
-and `Person/Library` with actual details relevant to your project.
-
+This README provides the necessary sections for a clear and complete description of the project.
